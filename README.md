@@ -17,10 +17,10 @@ Para verificar que esten instalados los programas puede usar los suguientes coma
 
 ## Ejecucion del proyecto
 
-![](img/Captura1.png)
+![](img/Captura1.PNG)
 
-![](img/Captura2.png)
+![](img/Captura2.PNG)
 
-![](img/Captura3.png)
+![](img/Captura3.PNG)
 
-![](img/Captura4.png)
+![](img/Captura4.PNG)
